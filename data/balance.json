@@ -1,0 +1,40 @@
+{
+  "balance": [
+    {
+      "UserId": 1,
+      "balance": 1000000000
+    },
+    {
+      "UserId": 2,
+      "balance": 140000
+    },
+    {
+      "UserId": 3,
+      "balance": 0
+    },
+    {
+      "UserId": 4,
+      "balance": 0
+    },
+    {
+      "UserId": 5,
+      "balance": 0
+    },
+    {
+      "UserId": 6,
+      "balance": 0
+    },
+    {
+      "UserId": 7,
+      "balance": 0
+    },
+    {
+      "UserId": 8,
+      "balance": 0
+    },
+    {
+      "UserId": 9,
+      "balance": 0
+    }
+  ]
+}

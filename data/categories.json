@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "name": "Main Course",
+      "imageUrl": "https://live.staticflickr.com/65535/52484396545_bc8fae9d1a_o.jpg"
+    },
+    {
+      "name": "Drinks",
+      "imageUrl": "https://live.staticflickr.com/65535/52484396575_58dd6e3451_o.jpg"
+    },
+    {
+      "name": "Bakery",
+      "imageUrl": "https://live.staticflickr.com/65535/52483937291_09cd2d7ac2_o.jpg"
+    },
+    {
+      "name": "Vegetarian",
+      "imageUrl": "https://live.staticflickr.com/65535/52484396630_dcb825d040_o.jpg"
+    },
+    {
+      "name": "Food Ingredients",
+      "imageUrl": "https://live.staticflickr.com/65535/52483937331_f3c49b4135_o.jpg"
+    },
+    {
+      "name": "Fruits & Vegetables",
+      "imageUrl": "https://live.staticflickr.com/65535/52483937276_4d04b35527_o.jpg"
+    },
+    {
+      "name": "Snacks",
+      "imageUrl": "https://live.staticflickr.com/65535/52484207184_407f22f22f_o.jpg"
+    },
+    {
+      "name": "Fast Food",
+      "imageUrl": "https://live.staticflickr.com/65535/52483937256_b4f0628cdc_o.jpg"
+    },
+    {
+      "name": "Seafood",
+      "imageUrl": "https://live.staticflickr.com/65535/52483937311_78a6d55172_o.jpg"
+    }
+  ]
+}

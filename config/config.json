@@ -1,0 +1,30 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "sabuncolek",
+    "database": "savvie_db",
+    "host": "localhost",
+    "port": "5433",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "sabuncolek",
+    "database": "savvie_test",
+    "port": "5433",
+    "host": "localhost",
+    "dialect": "postgres"
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL",
+    "ssl": true,
+    "dialect": "postgres",
+    "protocol": "postgres",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
